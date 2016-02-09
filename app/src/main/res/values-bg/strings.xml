@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Rolling Stones любопитни факти</string>
+    <string name="true_button">вярно</string>
+    <string name="false_button">лъжлив</string>
+    <string name="action_settings">настройки</string>
+    <string name="correct_toast">правилен!</string>
+    <string name="incorrect_toast">неправилен!</string>
+    <string name="next_button">следващия!</string>
+    <string name="question_one">Keith Richards име любимата си китара Micawber.</string>  // true
+    <string name="question_two">Изгнанието на Main Street е записан в Англия.</string> // false
+    <string name="question_three">Повечето от емблематичните Кийт Ричардс китарни рифове са написани на шест струни.</string> // false
+    <string name="question_four">Micawber е Fender Telecaster.</string> //true
+    <string name="question_five">Песента "Bittersweet Symphony" е написана от Ролинг Стоунс.</string> // true
+    <string name="question_six">Първият албум Ролинг Стоунс първоначално е бил наречен Ролинг Стоунс и впоследствие обявен Englands новите hitmakers.</string> // true
+    <string name="question_seven">От дванадесетте песни в Englands новите Хит дейци, само един е написана от Джагър / Ричардс.</string> // true
+    <string name="question_eight">Изгнанието на Main Street първоначално получи смесени отзиви.</string> // true
+    <string name="question_nine">По време на записването на Exile на главната улица, както и Кийт Mick са несемейни.</string> // false
+    <string name="question_ten">Производителността на ленти в Altamont безплатен концерт продължи без инциденти.</string> // false
+    <string name="question_eleven">Brown Sugar е записан в Alabamas Muscle Shoals студио.</string> // true
+    <string name="question_twelve">Удовлетворението е бандите първия американски / международни номер едно хит.</string> // true
+    <string name="question_thirteen">Nanker Phelge беше назове оригинална писалка songrwriting бандата използва за песни, написани от Джагър / Ричардс.</string> // false
+    <string name="question_fourteen">Започнете Me Up е писано в стандартната отворена E тунинг.</string> // false
+    <string name="question_fifteen">Jagger и Richards присъстваха Уентуърт Основно училище в Англия заедно.</string> // true
+    <string name="question_sixteen">Ричардс пише рифът за Satisfaction в средата на деня.</string> // false
+    <string name="question_seventeen">Brian Jones е един от основателите на групата.</string> // true
+    <string name="question_eighteen">Keith Richards не обичаше да записва, когато групата е на път.</string> // false
+    <string name="question_nineteen">Wild Horses се записват в Англия.</string> // false
+    <string name="question_twenty">Голяма част от материалите за Exile на Main Street е написана и се записва във френски Villa нарича Nellcote.</string> // true
+    <string name="question_twentyone">Корицата на Можете Gotta Move на Sticky Fingers е записан в Англия като камъните не искат тя да звучи прекалено блусарска.</string> // false
+    <string name="warning_text">Сигурни ли сте че искате да направите това?</string>
+    <string name="show_answer_button">Покажи Answer</string>
+    <string name="cheat_button">измама!</string>
+    <string name="judgement_toast">Cheating е наред</string>
+    <string name="title_activity_cheat">измама</string>
+    <string name="hello_world">Здравей Свят!</string>
+</resources>

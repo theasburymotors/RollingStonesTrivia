@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">रोलिंग स्टोन्स सामान्य ज्ञान</string>
+    <string name="true_button">यह सच है</string>
+    <string name="false_button">False</string>
+    <string name="action_settings">Settings</string>
+    <string name="correct_toast">सही!</string>
+    <string name="incorrect_toast">गलत!</string>
+    <string name="next_button">अगला!</string>
+    <string name="question_one">कीथ रिचर्ड्स अपने पसंदीदा गिटार मिकाव्बर नाम दिया है।.</string>  // true
+    <string name="question_two">मुख्य सड़क पर निर्वासन इंग्लैंड में दर्ज किया गया था।</string> // false
+    <string name="question_three">प्रतिष्ठित कीथ रिचर्ड्स गिटार riffs के अधिकांश छह तार पर लिखा गया था।</string> // false
+    <string name="question_four">मिकाव्बर एक फेंडर Telecaster है।</string> //true
+    <string name="question_five">गीत "Bittersweet सिम्फनी" रोलिंग स्टोन्स के द्वारा लिखा गया था।</string> // true
+    <string name="question_six">रोलिंग स्टोन्स पहली एल्बम मूल रोलिंग स्टोन्स और बाद में नामित इंग्लैंड नवीनतम hitmakers नामित किया गया था।</string> // true
+    <string name="question_seven">इंग्लैंड नवीनतम हिट निर्माताओं पर बारह गाने के, केवल एक जैगर / रिचर्ड्स द्वारा लिखा गया था।</string> // true
+    <string name="question_eight">मुख्य सड़क पर निर्वासन मूल रूप से मिश्रित समीक्षा प्राप्त किया।</string> // true
+    <string name="question_nine">मुख्य सड़क पर निर्वासन की रिकॉर्डिंग के समय, कीथ और मिक दोनों अविवाहित थे।</string> // false
+    <string name="question_ten">Altamont मुफ्त संगीत समारोह में बैंड प्रदर्शन घटना के बिना दीं।</string> // false
+    <string name="question_eleven">ब्राउन शुगर अलबामा \ के स्नायु शोल्स स्टूडियो में रिकॉर्ड किया गया था।</string> // true
+    <string name="question_twelve">संतोष बैंड पहले अमेरिकी / अंतरराष्ट्रीय नंबर एक मारा गया था (मैं टी कोई मिलत कर सकते हैं)।</string> // true
+    <string name="question_thirteen">Nanker Phelge एक मूल songrwriting कलम जैगर / रिचर्ड्स द्वारा लिखित गीत के लिए इस्तेमाल किया बैंड का नाम था।</string> // false
+    <string name="question_fourteen">मेरे ऊपर शुरू मानक खुला ई ट्यूनिंग में लिखा है।</string> // false
+    <string name="question_fifteen">जैगर और रिचर्ड्स एक साथ इंग्लैंड में वेंटवर्थ प्राइमरी स्कूल में भाग लिया।</string> // true
+    <string name="question_sixteen">रिचर्ड्स दिन के बीच में संतुष्टि के लिए रिफ लिखा था।</string> // false
+    <string name="question_seventeen">ब्रायन जोन्स बैंड के एक संस्थापक सदस्य थे। .</string> // true
+    <string name="question_eighteen">बैंड सड़क पर था जब कीथ रिचर्ड्स रिकॉर्ड करने के लिए पसंद नहीं आया।</string> // false
+    <string name="question_nineteen">जंगली घोड़े इंग्लैंड में दर्ज किया गया था।</string> // false
+    <string name="question_twenty">मुख्य सड़क पर निर्वासन के लिए सामग्री के बहुत लिखा है और Nellcote नामक एक फ्रांसीसी विला में दर्ज किया गया था।</string> // true
+    <string name="question_twentyone">पड़ेगा स्टिकी फिंगर्स पर कदम तुम के कवर पत्थर d  टी यह भी bluesy ध्वनि करना चाहते हैं के रूप में इंग्लैंड में दर्ज किया गया था।</string> // false
+    <string name="warning_text">क्या आप वास्तव में इसे करना चाहते हैं?</string>
+    <string name="show_answer_button">उत्तर दिखाओ</string>
+    <string name="cheat_button">धोखा!</string>
+    <string name="judgement_toast">धोखा गलत है</string>
+    <string name="title_activity_cheat">धोखा</string>
+    <string name="hello_world">नमस्ते दुनिया!</string>
+</resources>

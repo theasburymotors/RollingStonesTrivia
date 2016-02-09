@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Rolling Stones Trivia</string>
+    <string name="true_button">Sann</string>
+    <string name="false_button">False</string>
+    <string name="action_settings">Settings</string>
+    <string name="correct_toast">Rätt!</string>
+    <string name="incorrect_toast">Felaktigt!</string>
+    <string name="next_button">Nästa!</string>
+    <string name="question_one">Keith Richards namngav hans favorit gitarr Micawber..</string>  // true
+    <string name="question_two">Exile on Main Street spelades in i England.</string> // false
+    <string name="question_three">De flesta av de ikoniska Keith Richards gitarriff skrevs på sex strängar.</string> // false
+    <string name="question_four">Micawber är en Fender Telecaster.</string> //true
+    <string name="question_five">Låten "Bittersweet Symphony" var skriven av Rolling Stones..</string> // true
+    <string name="question_six">Rolling Stones första album hette ursprungligen Rolling Stones och därefter heter Englands nyaste hitmakers..</string> // true
+    <string name="question_seven">Av de tolv låtarna på Englands Nyaste Hit Makers, bara en är skriven av Jagger / Richards..</string> // true
+    <string name="question_eight">Exile on Main Street ursprungligen fått blandade recensioner.</string> // true
+    <string name="question_nine">Vid tidpunkten för registrering av Exile on Main Street, både Keith och Mick var ogift..</string> // false
+    <string name="question_ten">Bandets spelning på Altamont frigör konsert genomfördes utan incidenter.</string> // false
+    <string name="question_eleven">Brown Sugar spelades in på Alabamas Muscle Shoals studio.</string> // true
+    <string name="question_twelve">(Jag kant får ingen) Satisfaction var bandets första USA / internationellt nummer en träff.</string> // true
+    <string name="question_thirteen">Nanker Phelge var ett original songrwriting pseudonymen bandet som används för låtar skrivna av Jagger / Richards.</string> // false
+    <string name="question_fourteen">Start Me Up är skriven i vanlig öppen E tuning.</string> // false
+    <string name="question_fifteen">Jagger och Richards deltog Wentworth Primary School i England tillsammans..</string> // true
+    <string name="question_sixteen">Richards skrev riff för tillfredsställelse i mitt på dagen.</string> // false
+    <string name="question_seventeen">Brian Jones var en av grundarna av bandet. .</string> // true
+    <string name="question_eighteen">Keith Richards inte vilja spela in när bandet var på väg..</string> // false
+    <string name="question_nineteen">Wild Horses spelades in i England..</string> // false
+    <string name="question_twenty">Mycket av materialet för Exile on Main Street skrevs och spelades i en fransk Villa kallas Nellcote.</string> // true
+    <string name="question_twentyone">Omslaget till You Gotta Move på Sticky Fingers spelades in i England som stenarna gjordet vill att det ska låta alltför bluesiga.</string> // false
+    <string name="warning_text">Är du säker på att du vill göra detta?</string>
+    <string name="show_answer_button">Visa svar</string>
+    <string name="cheat_button">Fuska!</string>
+    <string name="judgement_toast">fusk är fel</string>
+    <string name="title_activity_cheat">Fuska</string>
+    <string name="hello_world">Hej världen!</string>
+</resources>

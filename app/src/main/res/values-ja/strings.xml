@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ローリング・ストーンズトリビア</string>
+    <string name="true_button">真</string>
+    <string name="false_button">偽</string>
+    <string name="action_settings">[設定]</string>
+    <string name="correct_toast">修正してください！</string>
+    <string name="incorrect_toast">不適切な！</string>
+    <string name="next_button">次！</string>
+    <string name="question_one">キース・リチャーズは彼のお気に入りのギターミコーバーと命名。</string>  // true
+    <string name="question_two">メインストリート上の亡命をイギリスで記録しました。</string> // false
+    <string name="question_three">象徴的なキース・リチャーズのギター・リフのほとんどは、6本の弦の上に書かれていました。</string> // false
+    <string name="question_four">楽天家はフェンダーテレキャスターです。.</string> //true
+    <string name="question_five">歌「ビタースウィートシンフォニー」はローリングストーンズによって書かれました。</string> // true
+    <string name="question_six">ローリング・ストーンズの最初のアルバムは、当初、ローリング・ストーンズの名前、その後イングランドsの最新hitmakers命名されました。</string> // true
+    <string name="question_seven">Englands最新ヒット・メーカーの12曲のうち、一つだけがジャガー/リチャーズによって書かれました。</string> // true
+    <string name="question_eight">メインストリートの追放は、当初混合レビューを受け取りました。</string> // true
+    <string name="question_nine">メインストリート上の亡命の記録時には、キースとミックの両方が未婚でした。</string> // false
+    <string name="question_ten">アルタモント無料コンサートのバンドのパフォーマンスは問題なく進行しました。</string> // false
+    <string name="question_eleven">ブラウンシュガーは、アラバマのマッスルショールズのスタジオで記録しました。</string> // true
+    <string name="question_twelve">満足度（私はtは何を取得しない」を\することができます）バンドまず米国/国際ナンバーワンヒットとなりました。</string> // true
+    <string name="question_thirteen">Nanker Phelgeはジャガー/リチャーズによって書かれた曲を使用する帯域オリジナルsongrwritingペン名前でした。</string> // false
+    <string name="question_fourteen">スタートミーアップは、標準のオープンEチューニングで書かれています。</string> // false
+    <string name="question_fifteen">ジャガーとリチャーズは、一緒にイギリスのウェントワース小学校に出席しました。.</string> // true
+    <string name="question_sixteen">リチャーズは、一日の真ん中に満足のためのリフを書きました。</string> // false
+    <string name="question_seventeen">ブライアン・ジョーンズは、バンドの創設メンバーでした。</string> // true
+    <string name="question_eighteen">キース・リチャーズは、バンドは、道路上にあったときに記録することが好きではなかったです。</string> // false
+    <string name="question_nineteen">ワイルド馬がイギリスで記録しました。</string> // false
+    <string name="question_twenty">メインストリートに亡命するための材料の多くはNellcoteと呼ばれるフランスのヴィラで書かれており、記録されました。</string> // true
+    <string name="question_twentyone">お奨めのスティッキー・フィンガーズに移動あなたのカバーは石のdidn\'tはそれがあまりにもブルージーな音にしたいようにイギリスで記録しました。</string> // false
+    <string name="warning_text">あなたはこれを実行してもよろしいですか？</string>
+    <string name="show_answer_button">ショー回答</string>
+    <string name="cheat_button">チート！!</string>
+    <string name="judgement_toast">不正行為は間違っています</string>
+    <string name="title_activity_cheat">カンニング</string>
+    <string name="hello_world">こんにちは世界</string>
+</resources>

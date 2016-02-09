@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Rolling Stones Forum!</string>
+    <string name="true_button">Vrai</string>
+    <string name="false_button">Faux</string>
+    <string name="action_settings">Settings</string>
+    <string name="correct_toast">Corriger!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">Suivant!</string>
+    <string name="question_one">Keith Richards a nommé son guitare préférée Micawber.</string>  // true
+    <string name="question_two">Exile on Main Street a été enregistré en Angleterre.</string> // false
+    <string name="question_three">La plupart des emblématiques riffs de guitare de Keith Richards ont été écrits sur les six cordes.</string> // false
+    <string name="question_four">Micawber est une Fender Telecaster.</string> //true
+    <string name="question_five">La chanson "Bittersweet Symphony" a été écrit par les Rolling Stones.</string> // true
+    <string name="question_six">Le premier album des Rolling Stones a été initialement nommé les Rolling Stones et ensuite nommés nouveaux Légendes de Angleterre.</string> // true
+    <string name="question_seven">Sur les douze chansons sur Englands Makers Date de Hit, un seul a été écrit par Jagger / Richards.</string> // true
+    <string name="question_eight">Exile on Main Street à l\'origine reçu des critiques mitigées.</string> // true
+    <string name="question_nine">Au moment de l\'enregistrement d\'Exile on Main Street, à la fois Keith et Mick étaient célibataires.</string> // false
+    <string name="question_ten">La performance des bandes lors du concert d\'Altamont gratuit déroulé sans incident.</string> // false
+    <string name="question_eleven">Brown Sugar a été enregistré à l ‘Alabama Muscle Shoals studio.</string> // true
+    <string name="question_twelve">(Je peuxt get no) Satisfaction était les bandes du premier numéro US / internationale dun coup.</string> // true
+    <string name="question_thirteen">Nanker phelge était le nom d\'un stylo songrwriting la bande originale utilisée pour des chansons écrites par Jagger / Richards. .</string> // false
+    <string name="question_fourteen">Start Me Up est écrit dans ouverte E accordage standard.</string> // false
+    <string name="question_fifteen">Jagger et Richards fréquenté l\'école primaire Wentworth en Angleterre ensemble..</string> // true
+    <string name="question_sixteen">Richards a écrit le riff de la satisfaction dans le milieu de la journée.</string> // false
+    <string name="question_seventeen">Brian Jones était un membre fondateur de la bande.</string> // true
+    <string name="question_eighteen">Keith Richards n\'a pas aimé à enregistrer quand le groupe était sur la route.</string> // false
+    <string name="question_nineteen">Wild Horses a été enregistré en Angleterre.</string> // false
+    <string name="question_twenty">Une grande partie de la matière pour Exile on Main Street a été écrit et enregistré dans une villa française appelée Nellcote.</string> // true
+    <string name="question_twentyone">La couverture de You Gotta Move la Sticky Fingers a été enregistré en Angleterre que les pierres nt veulent que ça sonne trop bluesy.</string> // false
+    <string name="warning_text">Êtes-vous sûr de vouloir faire cela?</string>
+    <string name="show_answer_button">Montrer la réponse</string>
+    <string name="cheat_button">Tricher!</string>
+    <string name="judgement_toast">La tricherie est faux</string>
+    <string name="title_activity_cheat">Tricher</string>
+    <string name="hello_world">Hello world!</string>
+</resources>

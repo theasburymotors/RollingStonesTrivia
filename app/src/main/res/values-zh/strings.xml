@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">滾石花絮</string>
+    <string name="true_button">屬實</string>
+    <string name="false_button">假</string>
+    <string name="action_settings">設置</string>
+    <string name="correct_toast">正確的！</string>
+    <string name="incorrect_toast">不正確！</string>
+    <string name="next_button">下一頁！</string>
+    <string name="question_one">基思·理查茲命名了他最喜歡的吉他米考伯。.</string>  // true
+    <string name="question_two">流亡主街被記錄在英國。</string> // false
+    <string name="question_three">大多數標誌性的基思·理查茲的吉他即興重複段被寫在六弦。</string> // false
+    <string name="question_four">米考伯是一個防御者電視廣播。</string> //true
+    <string name="question_five">歌曲“苦樂參半的交響曲”是由滾石。</string> // true
+    <string name="question_six">滾石樂隊的第一張專輯最初被命名為滾石樂隊，隨後命名為英格蘭\的最新hitmakers。</string> // true
+    <string name="question_seven">十二首歌曲恩格蘭茲最新命中莊家中，只有一個是由賈格爾/理查茲。</string> // true
+    <string name="question_eight">流亡在大街最初收到的評論褒貶不一。</string> // true
+    <string name="question_nine">在流亡在主要街道的記錄時，無論是基思和米克未婚。</string> // false
+    <string name="question_ten">該樂隊的表現在阿爾塔蒙特免費音樂會進行時沒有出事。</string> // false
+    <string name="question_eleven">黑糖被記錄在阿拉巴馬\的肌肉淺灘工作室。</string> // true
+    <string name="question_twelve">（我可以\'噸得到沒有）滿意度是樂隊第一次美國/國際號碼一擊。</string> // true
+    <string name="question_thirteen">南科集成Phelge是一個原始songrwriting筆名用於歌曲寫的賈格爾/理查茲樂隊。 .</string> // false
+    <string name="question_fourteen">開始我是寫在標準公開電子調諧。</string> // false
+    <string name="question_fifteen">賈格爾和理查茲在英格蘭溫特沃斯參加小學在一起。</string> // true
+    <string name="question_sixteen">理查茲在一天中寫了即興的滿意度。</string> // false
+    <string name="question_seventeen">布賴恩·瓊斯是樂隊的創始成員之一。</string> // true
+    <string name="question_eighteen">基思·理查茲不喜歡記錄當樂隊在路上。</string> // false
+    <string name="question_nineteen">野馬被記錄在英國。</string> // false
+    <string name="question_twenty">對於許多流亡在大街材料的編寫，並記錄在法國的別墅叫Nellcote。</string> // true
+    <string name="question_twentyone">被記錄在英格蘭你蓋得繼續前進粘手指的石頭沒\'噸希望它聽起來太布魯斯。</string> // false
+    <string name="warning_text">你確定要這麼做嗎？</string>
+    <string name="show_answer_button">顯示答案</string>
+    <string name="cheat_button">騙！</string>
+    <string name="judgement_toast">作弊是不對的</string>
+    <string name="title_activity_cheat">騙</string>
+    <string name="hello_world">世界，你好！</string>
+</resources>

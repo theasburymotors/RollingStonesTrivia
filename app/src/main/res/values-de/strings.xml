@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Rolling Stones Sicht</string>
+    <string name="true_button">Wahr</string>
+    <string name="false_button">Falsch</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="correct_toast">Richtig!</string>
+    <string name="incorrect_toast">Unrichtig!!</string>
+    <string name="next_button">Nächster!</string>
+    <string name="question_one">Keith Richards nannte seine Lieblingsgitarre Micawber.</string>  // true
+    <string name="question_two">Exile on Main Street wurde in England registriert.</string> // false
+    <string name="question_three">Die meisten der ikonischen Keith Richards Gitarrenriffs wurden auf sechs Saiten geschrieben.</string> // false
+    <string name="question_four">Micawber ist eine Fender Telecaster.</string> //true
+    <string name="question_five">Der Song "Bittersweet Symphony" von den Rolling Stones geschrieben.</string> // true
+    <string name="question_six">Die Rolling Stones erstes Album hieß ursprünglich die Rolling Stones und anschließend mit dem Namen Englands neuestes Hitmakers.</string> // true
+    <string name="question_seven">Von den zwölf Songs auf Englands neueste Hit Makers wurde nur eine von Jagger / Richards geschrieben.</string> // true
+    <string name="question_eight">Exile on Main Street ursprünglich erhielt gemischte Kritiken.</string> // true
+    <string name="question_nine">Zum Zeitpunkt der Aufnahme der Exile on Main Street, waren beide Keith und Mick unverheiratet.</string> // false
+    <string name="question_ten">Die Bands Leistung am Altamont geben Konzert verlief ohne Zwischenfälle.</string> // false
+    <string name="question_eleven">Brown Sugar wurde bei Alabama\'s in Muscle Shoals Studio aufgenommen.</string> // true
+    <string name="question_twelve">(Ich kann\'t erhalten no) Satisfaction war die Bands ersten US / internationale Nummer-Eins-Hit.</string> // true
+    <string name="question_thirteen">Nanker Phelge war ein Original songrwriting Pseudonym die Band Songs von Jagger / Richards geschrieben verwendet.</string> // false
+    <string name="question_fourteen">Start Me Up ist in Standard-Open-E Tuning geschrieben.</string> // false
+    <string name="question_fifteen">Jagger und Richards besuchte Wentworth Primary School in England zusammen.</string> // true
+    <string name="question_sixteen">Richards schrieb das Riff für Zufriedenheit in der Mitte des Tages.</string> // false
+    <string name="question_seventeen">Brian Jones war ein Gründungsmitglied der Band.</string> // true
+    <string name="question_eighteen">Keith Richards nicht gern aufnehmen, wenn die Band auf der Straße.</string> // false
+    <string name="question_nineteen">Wilde Pferde in England registriert.</string> // false
+    <string name="question_twenty">Ein Großteil des Materials für Exile on Main Street wurde geschrieben und in einem Französisch Villa genannt Nellcote aufgezeichnet.</string> // true
+    <string name="question_twentyone">Das Cover von You Gotta auf Sticky Fingers Bewegen Sie wurde in England als die Steine ​​didn\'t wollen, dass es zu bluesigen Ton aufgezeichnet.</string> // false
+    <string name="warning_text">Sind Sie sicher, dass Sie dies tun wollen?</string>
+    <string name="show_answer_button">Zeige die Antwort</string>
+    <string name="cheat_button">Betrügen!</string>
+    <string name="judgement_toast">Cheating ist falsch</string>
+    <string name="title_activity_cheat">Betrügen</string>
+    <string name="hello_world">Hallo welt!</string>
+</resources>
